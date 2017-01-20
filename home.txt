@@ -1,7 +1,4 @@
 home.txt
 change  ddd
-7777
 8888
-666
-999
 999
